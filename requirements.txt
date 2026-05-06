@@ -1,4 +1,0 @@
-fastapi
-uvicorn
-instagram-url-direct
-requests
